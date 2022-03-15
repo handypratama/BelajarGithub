@@ -1,0 +1,9 @@
+package ulertangga;
+
+public class p_three extends getset {
+
+	public p_three(int Dadu,int Flag,int Moves) {
+		super(Dadu,Flag,Moves);
+	}
+
+}

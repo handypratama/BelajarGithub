@@ -1,0 +1,54 @@
+package ulertangga;
+
+public class getset {
+
+	private int Dadu;
+	private int Flag;
+	private int Moves;
+	
+	
+
+	public int getDadu() {
+		return Dadu;
+	}
+
+
+
+	public void setDadu(int dadu) {
+		Dadu = dadu;
+	}
+
+
+
+	public int getFlag() {
+		return Flag;
+	}
+
+
+
+	public void setFlag(int flag) {
+		Flag = flag;
+	}
+
+
+
+	public int getMoves() {
+		return Moves;
+	}
+
+
+
+	public void setMoves(int moves) {
+		Moves = moves;
+	}
+
+
+
+	public getset(int dadu2 , int flag2 , int moves2) {
+		super();
+		Dadu = dadu2;
+		Flag = flag2;
+		Moves = moves2;
+	}
+
+}

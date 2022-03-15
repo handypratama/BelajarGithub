@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Tanda"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="Tanda_"/>
+			<item value="Moves"/>
+			<item value="Flag"/>
+			<item value="Dadu"/>
+			<item value="Pemains"/>
+			<item value="printMenu"/>
+			<item value="getMenuInput"/>
+			<item value="score"/>
+			<item value="memiliki"/>
+			<item value="dengan"/>
+			<item value="Score Board"/>
+			<item value="!!!!"/>
+			<item value="Menang"/>
+			<item value="Gim"/>
+			<item value="Game"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Tanda"/>
+			<item value="Geser"/>
+			<item value="Dice"/>
+			<item value="dice"/>
+			<item value="Pemain"/>
+			<item value="view"/>
+			<item value="Menu"/>
+			<item value="nilai"/>
+			<item value="memiliki"/>
+			<item value="Papan Nilai"/>
+			<item value="!"/>
+			<item value="Win"/>
+			<item value="Gim"/>
+			<item value="Memutar Dadu"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="801"/>
+		<item key="DIALOG_Y_ORIGIN" value="221"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="455"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,9 @@
+package ulertangga;
+
+public class p_one extends getset {
+
+	public p_one(int Dice,int Tanda,int Geser) {
+		super (Dice,Tanda,Geser);
+	}
+
+}

@@ -1,0 +1,14 @@
+package ulertangga;
+
+public class p_one {
+
+	public p_one() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
